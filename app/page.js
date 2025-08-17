@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 // import { button } from "./components/ui/button";
-const exampleImage = "/images/kucing.jpg";
+const exampleImage = "/images/kucingg.jpg";
 
 export default function App() {
   const [currentPage, setCurrentPage] = useState("landing");
