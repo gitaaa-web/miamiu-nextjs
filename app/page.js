@@ -15,7 +15,7 @@ export default function App() {
           <div className="relative">
             <div className="rounded-full overflow-hidden w-64 h-64 mx-auto border-4 border-white shadow-lg bg-white">
               <img
-                src={exampleImage}
+                src="/kucingg.jpg"
                 alt="Mascot Perusahaan"
                 className="w-full h-full object-cover"
               />
